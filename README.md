@@ -1,6 +1,6 @@
 # student_login
 
-A new Flutter project.
+Developed a new flutter application project with firebase authentication. Flutter is a single codebase framework to develop a cross-platform applications. This repository has a flutter login/signup application developed with the single codebase framework and written in Dart Language. 
 
 ## Getting Started
 
