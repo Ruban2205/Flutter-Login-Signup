@@ -13,7 +13,7 @@ This is a Flutter application that provides a student login and signup functiona
 - User Dashboard: Once logged in, users are directed to a dashboard screen where they can view their profile information or perform additional actions. 
 
 
-## Getting Started
+## 🚀 Getting Started
 
 This project is a starting point for a Flutter application.
 
@@ -25,6 +25,37 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+To get started with the application, follow these steps: 
+
+1. Clone the repository
+```
+git clone https://github.com/Ruban2205/Flutter-Login-Signup.git
+```
+
+2. Navigate to the project directory: 
+```
+cd Flutter-Login-Signup
+```
+
+3. Fetch Dependencies: 
+```
+flutter pub get
+```
+
+4. Connect to Firebase: 
+- Create a new Firebase project in the [Firebase Console](firebase.google.com)
+- Enable the Firebase Authentication service for your project. 
+- Add a new Android app to your Firebase project and follow the instructions to register the app and download the `google-services.json` file. 
+- Place the `google-services.json` file in the `android/app` directory of the Flutter project. 
+
+5. Run the app: 
+```
+flutter run 
+```
+
+This command will start the app on a connected device or emulator. 
 
 ## Contact
 
