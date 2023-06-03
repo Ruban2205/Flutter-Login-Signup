@@ -78,7 +78,11 @@ The directory structure of the project is organized as follows:
 Contributions to this project are welcome. If you encounter any bugs or have suggestions for improvements, please open an issue in the GitHub Repository. 
 
 
-## 📄 
+## 📄 Licence 
+
+This project is released under MIT LICENCE. See [LICENCE](/LICENCE) for more details. 
+
+
 
 ## Contact
 
