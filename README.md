@@ -73,6 +73,13 @@ The directory structure of the project is organized as follows:
 - `pubspec.yaml`: Defines the dependencies and metadata for the Flutter application. 
 
 
+## 🤝 Contributing 
+
+Contributions to this project are welcome. If you encounter any bugs or have suggestions for improvements, please open an issue in the GitHub Repository. 
+
+
+## 📄 
+
 ## Contact
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
