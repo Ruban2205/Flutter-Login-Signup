@@ -3,6 +3,16 @@
 This is a Flutter application that provides a student login and signup functionality using Firebase authentication. The app is built using the Dart programming language and utilizes the Flutter framework. 
 
 
+## 🎯 Features 
+
+- User Registration: Users can create a new account by providing their email address and password. 
+- User Login: Registered users can log in using their email and password 
+- Firebase Authentication: The app integrates with Firebase Authentication to handle user authentication and account management. 
+- Error Handling: Appropriate error messages are displayed to users in case of authentication failures or invalid inputs. 
+- Form Validation: Input fields are validated to ensure the data entered is in the correct format. 
+- User Dashboard: Once logged in, users are directed to a dashboard screen where they can view their profile information or perform additional actions. 
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
