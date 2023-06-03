@@ -55,6 +55,22 @@ flutter pub get
 flutter run 
 ```
 
+
+## 📁 Directory Structure
+
+The directory structure of the project is organized as follows: 
+
+- `lib/`: Contains the cource code for the Flutter application. 
+- `screens/`: Contains the different screens of the application, such as login, signup, and dashboard.
+- `services/`: Contains service classes for interacting with Firebase. 
+- `utils/`: Contains utility classes and functions used throughtout the application. 
+- `widgets/`: Contains reusable widgets used in the application. 
+- `main.dart`: The entry point of the application. 
+- `android/`:  Contains the Android-specific configuration files and resources. 
+- `ios/`: Contains the iOS-specific configuration files and resources. 
+- `pubspec.yaml`: Defines the dependencies and metadata for the Flutter application. 
+
+
 This command will start the app on a connected device or emulator. 
 
 ## Contact
