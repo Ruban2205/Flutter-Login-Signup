@@ -83,6 +83,14 @@ Contributions to this project are welcome. If you encounter any bugs or have sug
 This project is released under MIT LICENCE. See [LICENCE](/LICENCE) for more details. 
 
 
+## 🙏 Acknowledgements 
+
+This project was developed by [Ruban Gino Singh](www.rubangino.in). Special thanks to the Flutter and Dart communities for their contributions and support. 
+
+If you have any questions or need further assistance, feel free to contace me. 
+
+Thank you for visiting this repository!
+
 
 ## Contact
 
