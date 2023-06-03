@@ -55,6 +55,8 @@ flutter pub get
 flutter run 
 ```
 
+This command will start the app on a connected device or emulator. 
+
 
 ## 📁 Directory Structure
 
@@ -70,8 +72,6 @@ The directory structure of the project is organized as follows:
 - `ios/`: Contains the iOS-specific configuration files and resources. 
 - `pubspec.yaml`: Defines the dependencies and metadata for the Flutter application. 
 
-
-This command will start the app on a connected device or emulator. 
 
 ## Contact
 
